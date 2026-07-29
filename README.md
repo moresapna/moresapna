@@ -1,50 +1,82 @@
-## Hi there 👋
+# Hi 👋, I'm Sapna More
 
-<!--
-**moresapna/moresapna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Web Developer | Electronics & Telecommunication Engineer
 
-Here are some ideas to get you started:
+💻 Passionate about building scalable and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning **Data Structures & Algorithms** and **Advanced Full Stack Development**.
 
+🎯 Seeking Software Development Internship / Full-Time Opportunities.
 
-# Hi 👋, I'm Sapna
+---
 
-## 💻 About Me
+## 🚀 About Me 
 
-- 🎓 Electronics & Telecommunication Engineer
-- 🌱 Learning Full Stack Web Development
-- 💻 Practicing Data Structures & Algorithms
-- 🚀 Building real-world web projects
+- 🎓 B.E. Electronics & Telecommunication Engineering (2023–2027)
+- 💻 Full Stack Web Developer
+- 📚 Practicing Data Structures & Algorithms in Java
+- 🌱 Learning React.js, Node.js, Express.js & MongoDB
+- 🚀 Building real-world Full Stack projects
+- ✨ Interested in Backend Development & System Design
+
+---
 
 ## 🛠️ Tech Stack
 
-- HTML
-- CSS
+### Languages
+- Java
 - JavaScript
-- React
+
+### Frontend
+- HTML5
+- CSS3
+- Bootstrap
+- Tailwind CSS
+- React.js
+
+### Backend
 - Node.js
 - Express.js
+- REST APIs
+
+### Database
 - MongoDB
-- Java
-- Git & GitHub
+- MySQL
+- Supabase
 
-## 📌 Current Goals
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
 
-- Build 5+ Full Stack Projects
-- Improve DSA
-- Get a Software Development Internship
-- Contribute to Open Source
+---
+
+## 📈 Currently Working On
+
+- ✅ Improving DSA
+- ✅ Building Full Stack Projects
+- ✅ Learning Backend Development
+- ✅ Preparing for Software Placements
+
+---
+
+## 🌍 Languages
+
+- English (Fluent)
+- Hindi (Native)
+- Marathi (Native)
+- Telugu (Basic)
+
+---
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/sapnamore/
-- LeetCode: https://leetcode.com/u/sapna_more/
+💼 LinkedIn  
+https://www.linkedin.com/in/sapnamore/
+
+💻 LeetCode  
+https://leetcode.com/u/sapna_more/
+
+📧 Email  
+sapnamore1105@gmail.com
