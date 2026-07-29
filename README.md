@@ -14,3 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hi 👋, I'm Sapna
+
+## 💻 About Me
+
+- 🎓 Electronics & Telecommunication Engineer
+- 🌱 Learning Full Stack Web Development
+- 💻 Practicing Data Structures & Algorithms
+- 🚀 Building real-world web projects
+
+## 🛠️ Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Java
+- Git & GitHub
+
+## 📌 Current Goals
+
+- Build 5+ Full Stack Projects
+- Improve DSA
+- Get a Software Development Internship
+- Contribute to Open Source
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/sapnamore/
+- LeetCode: https://leetcode.com/u/sapna_more/
